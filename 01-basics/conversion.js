@@ -27,3 +27,16 @@ let isLoggedIn = "abhishek"
 // 1 = true ; 0 = false
 //  "" = false 
 //  "abhisher" = false
+
+// *****************************operation*****************************
+
+  let value = 3
+   let negValue = -value
+   // console.log(negValue);
+ 
+//    console.log(2+2)
+//    console.log(2-2)
+//    console.log(2*2)
+//    console.log(2**2) power
+//    console.log(2/2)
+//    console.log(2%2) remender
