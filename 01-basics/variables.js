@@ -3,7 +3,7 @@ let accountEmail = "abhishek"
 var accountPassword = "12t43"
 accountcity = "jaipur"
 
-//never use without kyeword and not use var because var is proble in block scope and functionl scope
+//never use without kyeword and not use var because var is problem in block scope and functionl scope ()
 
 accountEmail = "bfbsf.ckm"
 accountPassword = "kjbfwfk"
