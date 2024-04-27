@@ -1,9 +1,10 @@
 //types of datatypes 
+
 // number 
 // string ""
-// boolean true / false
-//null standalone value (object)
-// unedfined = undefinde
+// boolean => true / false
+// null => standalone value (object)
+// unedfined => undefinde
 // symbole unique
 
 // object
