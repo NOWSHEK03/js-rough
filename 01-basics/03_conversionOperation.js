@@ -1,4 +1,4 @@
-// let score = "33abc"
+//let score = "33abc"
 
 // console.log(typeof score);
 // console.log(typeof(score)); 
@@ -20,9 +20,9 @@
   // undefined = undefined
 
 
-let isLoggedIn = "abhishek"
- let booleanIsLoggedIn = Boolean(isLoggedIn)
- console.log(booleanIsLoggedIn);
+//let isLoggedIn = "abhishek"
+ //let booleanIsLoggedIn = Boolean(isLoggedIn)
+// console.log(booleanIsLoggedIn);
 
 // 1 = true ; 0 = false
 //  "" = false 
@@ -30,8 +30,8 @@ let isLoggedIn = "abhishek"
 
 // *****************************operation*****************************
 
-  let value = 3
-   let negValue = -value
+ // let value = 3
+   //let negValue = -value
    // console.log(negValue);
  
 //    console.log(2+2)
@@ -40,3 +40,14 @@ let isLoggedIn = "abhishek"
 //    console.log(2**2) power
 //    console.log(2/2)
 //    console.log(2%2) remender
+
+
+// Rough
+//how to chang in type of data types
+
+let number = 33
+console.log(typeof number)
+
+let valueInNumber = String(number)
+console.log(typeof valueInNumber)
+
