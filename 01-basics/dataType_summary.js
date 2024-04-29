@@ -44,7 +44,7 @@ console.log(typeof anotherId)
 //stack (primitive)  , heap( non primitive)
 
 
-//stack
+//stack   note :  data copy only 
 
 let girlName = "abhishekKumar"
 
@@ -56,7 +56,7 @@ secondGirlName = "abhishekkumai"
 //console.log(girlName)
 //console.log(secondGirlName)
 
-//heap 
+//heap   note : orignal refrence data 
 
 let carDetail = {
     name : " saferi",
