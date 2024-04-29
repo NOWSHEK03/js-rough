@@ -69,8 +69,7 @@ let secondCarDetail = carDetail
 
 carDetail.modal = 72857
 
-console.log(carDetail)
-console.log(secondCarDetail)
+
 
 console.log(carDetail.modal);
 console.log(secondCarDetail.modal);
