@@ -1,6 +1,6 @@
-// date
+// // date
 
-let myDate = new Date()
+// let myDate = new Date()
 //  console.log(myDate.toString());
 //  console.log(myDate.toLocaleString());
 //  console.log(myDate.toDateString());
@@ -8,9 +8,9 @@ let myDate = new Date()
  
 // create specific date
 
-//let mycreatedDate = new Date(2033 , 0 , 23 )
+// let mycreatedDate = new Date(2033 , 0 , 23 )
 // console.log(mycreatedDate);
 
-//for date yy/mm/dd//
- let mycreatedDate = new Date("2023-01-14")
- console.log(mycreatedDate.toDateString());
+//for date yy/mm/dd/
+//  let mycreatedDate = new Date("2023-01-14")
+//  console.log(mycreatedDate.toDateString());
