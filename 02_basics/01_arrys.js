@@ -34,9 +34,19 @@ const myArr2 = new Array(1, 2, 3, 4)
 const myn1 = myArr.slice(1, 3) // note : last index not include
 
 // console.log(myn1);
-console.log("B ", myArr);
+// console.log("B ", myArr);
 
 
 const myn2 = myArr.splice(1, 3) // note : cut element
-console.log("C ", myArr);
-console.log(myn2);
+// console.log("C ", myArr);
+// console.log(myn2);
+
+// update 
+
+let arr = [1,2,3,4]
+arr.push(7);
+console.log(arr)
+arr.pop(1);
+console.log(arr)
+arr.shift(2);    
+console.log(arr)                    
